@@ -58,7 +58,7 @@ Following are the estimate system requirements as discussed above
 2. Read QPS - 12K/s
 3. Storage for 5 years - 20PB
 4. Incoming Bandwidth - 120G/s
-5. Outgoing Bandwidth - 12/s
+5. Outgoing Bandwidth - 12G/s
 6. Cache Memory - 400GB
 
 ### Database Design
@@ -73,7 +73,7 @@ Following are the estimate system requirements as discussed above
 - Micro services enable us to elastically scale horizontally in response to incoming network traffic into the system. 
 - And a distributed stream processing pipeline scales in proportion to the load.
 
-High level architecture of analysis system is as below : 
+High level system architecture of analysis system is as below : 
 
 ![High level Architecture](./HighLevelArchitecture.png)
 
