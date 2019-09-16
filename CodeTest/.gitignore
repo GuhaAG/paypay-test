@@ -8,3 +8,7 @@ target/
 
 ### VSCode ###
 .vscode
+
+.classpath
+.project
+.settings
